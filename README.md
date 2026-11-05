@@ -14,10 +14,10 @@ B.S. in Mechatronics Engineering from Hochiminh City University of Technology (H
 ### Technical Knowledge and Experience
 
 - **CAD & Prototyping:** SolidWorks (Part/Assembly Modeling & Static FEA Simulation), AutoCAD
-- **Industrial Automation & PLCs:** Siemens TIA Portal (S7-1200), Mitsubishi (FX3U, GX Works), Industrial Fieldbus (Snap7, Modbus), L2/L3 Switching & SFP
+- **Industrial Automation & PLCs:** Siemens TIA Portal (S7-1200), Mitsubishi (FX3U, GX Works), L2/L3 Switching & SFP, Local Network Attached Storage and Headless Pi control
 - **Drives & Motion Control:** Yaskawa VFD Commissioning (J1000, V1000, GA500), Servo Systems (ESTUN, Omron, Panasonic, LS)
 - **Control Theory & Modeling:** PID Tuning, State-Space Control, Sliding Mode Control (SMC), Kinematics & Dynamics, MATLAB & Simulink
-- **Embedded & Simulation:** ESP32, Raspberry Pi 5, Altium Designer (PCB), Unity (Digital Twin Motion Sim), Linux (Debian, Ubuntu, Fedora), Python
+- **Embedded & Simulation:** ESP32, Raspberry Pi 5, Unity (Digital Twin Motion Sim), Linux (Debian, Ubuntu, Fedora), Python
 
 ---
 
