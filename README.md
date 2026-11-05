@@ -1,13 +1,13 @@
-# Hi there, I'm Nguyen Minh Hoang 👋
+# Hello, I'm Nguyễn Minh Hoàng 👋
 **Mechatronics Engineer | Industrial Automation, Control Systems & CAD**
 
 B.S. in Mechatronics Engineering from Hochiminh City University of Technology (HCMUT). Specializing in physical servo/drive commissioning, PLC automation, digital twin kinematic simulation, and advanced control engineering.
 
-- 📍 Location: Ho Chi Minh City, Vietnam
-- 🎓 Education: B.S. in Mechatronics Engineering, HCMUT (Expected Nov 2026) | GPA: 3.2/4.0
-- 💼 Focus Areas: Industrial Automation, Motion Control, CAD/FEA, Digital Twins, Hardware-in-the-Loop (HIL)
-- 📬 Contact: minhhoang7775@gmail.com | +84 946 434 843
-- 🌐 GitHub: [@svenny1644](https://github.com/svenny1644)
+- Location: Ho Chi Minh City, Vietnam
+- Education: B.S. in Mechatronics Engineering, HCMUT (Expected Nov 2026) | GPA: 3.2/4.0
+- Focus Areas: Industrial Automation, Motion Control, CAD/FEA, Digital Twins, Hardware-in-the-Loop (HIL)
+- Contact: minhhoang7775@gmail.com | +84 946 434 843
+- GitHub: [@svenny1644](https://github.com/svenny1644)
 
 ---
 
