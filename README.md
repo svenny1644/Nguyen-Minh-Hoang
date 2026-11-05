@@ -11,7 +11,7 @@ B.S. in Mechatronics Engineering from Hochiminh City University of Technology (H
 
 ---
 
-### 🛠 Technical Arsenal
+### Technical Knowledge and Experience
 
 - **CAD & Prototyping:** SolidWorks (Part/Assembly Modeling & Static FEA Simulation), AutoCAD
 - **Industrial Automation & PLCs:** Siemens TIA Portal (S7-1200), Mitsubishi (FX3U, GX Works), Industrial Fieldbus (Snap7, Modbus), L2/L3 Switching & SFP
@@ -21,7 +21,7 @@ B.S. in Mechatronics Engineering from Hochiminh City University of Technology (H
 
 ---
 
-### 🚀 Featured Engineering & CAD Projects
+### Featured Engineering & CAD Projects
 
 #### 1. [2-Axis Cartesian Gantry Paint-Spraying Machine](https://github.com/svenny1644/cartesian-paint-sprayer)
 *A full Hardware-in-the-Loop (HIL) automated gantry synchronized with a real-time digital twin.*
@@ -37,5 +37,5 @@ B.S. in Mechatronics Engineering from Hochiminh City University of Technology (H
 
 ---
 
-### 🏭 Industrial & Field Experience
+### Industrial & Field Experience
 - **HoangQuan Glass (Internship 2024–2026):** Programmed Siemens S7-1200 & Mitsubishi FX3U PLCs, commissioned Yaskawa VFDs and multi-brand servo drives, resolved fieldbus communications, and calibrated sensor lines (Panasonic FX-301P/501P).
