@@ -23,7 +23,7 @@ B.S. in Mechatronics Engineering from Hochiminh City University of Technology (H
 
 ### Featured Engineering & CAD Projects
 
-#### 1. [2-Axis Cartesian Gantry Paint-Spraying Machine](https://github.com/svenny1644/cartesian-paint-sprayer)
+#### 1. [2-Axis Cartesian Gantry Paint-Spraying Machine](https://github.com/svenny1644/cartesian-paint-sprayer) (have not uploaded)
 *A full Hardware-in-the-Loop (HIL) automated gantry synchronized with a real-time digital twin.*
 - **CAD & Structural Analysis:** Designed custom motor mounts in SolidWorks; conducted static FEA to verify deflection and Factor of Safety (FOS).
 - **Automation Pipeline:** Siemens S7-1200 PLC linked via Snap7 industrial Ethernet to a real-time Unity kinematic digital twin.
